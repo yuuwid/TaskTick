@@ -1,0 +1,14 @@
+export 'package:flutter/material.dart';
+export 'package:tasktick/src/pages/calendar/calendar_page.dart';
+export 'package:tasktick/src/pages/drawer/drawer_home.dart';
+export 'package:tasktick/src/pages/hari_ini/hari_ini_page.dart';
+export 'package:tasktick/src/pages/home/home_page.dart';
+export 'package:tasktick/src/pages/login/dash_login_page.dart';
+export 'package:tasktick/src/pages/login/login_page.dart';
+export 'package:tasktick/src/pages/note/note_page.dart';
+export 'package:tasktick/src/pages/pesan/pesan_page.dart';
+export 'package:tasktick/src/pages/splash/splash_page.dart';
+export 'package:tasktick/src/pages/tesRoute/first_page.dart';
+export 'package:tasktick/src/pages/todos/todos_page.dart';
+export 'package:tasktick/src/pages/task/task_page.dart';
+export 'package:tasktick/src/pages/widgets/reusable_widgets.dart';

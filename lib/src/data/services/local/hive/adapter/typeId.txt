@@ -1,0 +1,8 @@
+Tasks = 4
+Category = 21
+Tags = 43
+Repeat = 16
+Activity = 87
+
+
+flutter packages pub run build_runner build
